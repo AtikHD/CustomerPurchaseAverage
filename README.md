@@ -12,7 +12,26 @@ A Java console application that calculates the average spending of each customer
 - Supports decimal values (e.g., item price: 9.99)
 
 ## 🧮 Example
+Enter Number of Customers:
+2
 
+Enter number of items for customer 1:
+3
+Item 1 price:
+10
+Item 2 price:
+20
+Item 3 price:
+30
+Average for Customer 1: 20.00
+
+Enter number of items for customer 2:
+2
+Item 1 price:
+50
+Item 2 price:
+70
+Average for Customer 2: 60.00
 
 ## 💻 Technologies Used
 
